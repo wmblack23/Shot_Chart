@@ -1,3 +1,3 @@
-# Thunder_Shot_Chart
+# Shot_Chart
 
 EFG and Shot Distribution
